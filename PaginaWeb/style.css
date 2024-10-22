@@ -1,0 +1,24 @@
+#ofertas {
+    color: red;
+    text-align: center;
+    font-size: 3rem;
+}
+
+nav {
+    background-color: #9cc72f; /* Estiliza la barra de navegación completa */
+    overflow: hidden;
+}
+
+nav a {
+    font-size: x-large;
+    text-align: center;
+    color: red;
+    padding: 14px 20px;
+    text-decoration: none;
+    float: left;
+    
+}
+nav a:hover {
+    background-color: #3b22dc;
+    color: white;
+}
